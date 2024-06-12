@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=mrfa0gh&label=Profile%20views&color=0e75b6&style=flat" alt="Mrfa0gh" /> 
 </p>
 
-<p align="center">
+<div align="center">
     <a href="https://twitter.com/mrfa0gh">
         <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" style="width: 40px; height: 40px;"/>
     </a>
@@ -16,19 +16,29 @@
     <a href="https://t.me/mrfa0gh">
         <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram" style="width: 40px; height: 40px;"/>
     </a>
-</p>
+</div>
 
 <img src="https://github.com/mrfa0gh/mrfa0gh/blob/main/profile-img.png" align="right" width="25%"/>
 
+- ⚡ I’m a py & java coder
 - 🌱 I’m currently learning ML, AI, IoT, Arduino.
-- 📫 How to reach me: ...
+- ✨ I’m Telegram Devolper (Bot + Scripts)
+- 📫 How to reach me: ... My user @Mrfa0gh
 - 😄 Pronouns: Fares / Ghalwash / Kera / 0xaosha
 - ⚡ Fun fact: Ronaldo is GOAT
+- 🌱 
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## Languages Used in My Projects
 
 <p align="center">
   <a href="https://github.com/mrfa0gh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfa0gh&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfa0gh&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mrfa0gh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfa0gh&layout=pie&theme=dark" alt="Top Languages" />
   </a>
 </p>
