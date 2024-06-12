@@ -26,7 +26,6 @@
 - 📫 How to reach me: ... My user @Mrfa0gh
 - 😄 Pronouns: Fares / Ghalwash / Kera / 0xaosha
 - ⚡ Fun fact: Ronaldo is GOAT
-- 🌱 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
