@@ -27,5 +27,8 @@
 
 ## Languages Used in My Projects
 
-Below is an analysis of the languages used in my GitHub projects:
-
+<p align="center">
+  <a href="https://github.com/mrfa0gh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfa0gh&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
+  </a>
+</p>
