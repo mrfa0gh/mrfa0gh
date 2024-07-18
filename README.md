@@ -39,6 +39,5 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mrfa0gh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfa0gh&layout=pie&theme=dark" alt="Top Languages" />
   </a>
 </p>
