@@ -21,10 +21,11 @@
 <img src="https://github.com/mrfa0gh/mrfa0gh/blob/main/profile-img.png" align="right" width="25%"/>
 
 - ⚡ I’m a py & java coder
-- 🌱 I’m currently learning ML, AI, IoT, Arduino.
-- ✨ I’m Telegram Devolper (Bot + Scripts)
+- 🌱 I’m currently learning ML, AI, IoT, Cybersecurity.
+- ✨ I’m currently learning + working Telegram Devolper (Bot + Scripts)
 - 📫 How to reach me: ... My user @Mrfa0gh
-- 😄 Pronouns: Fares / Ghalwash / Kera / 0xaosha
+- 😄 Pronouns: Fares / Ghalwash / Kera
+- i hope to learn about flutter
 - ⚡ Fun fact: Ronaldo is GOAT
 
 <p>&nbsp;</p>
