@@ -21,23 +21,25 @@
 <img src="https://github.com/mrfa0gh/mrfa0gh/blob/main/profile-img.png" align="right" width="25%"/>
 
 - ⚡ I’m a py & java coder
-- 🌱 I’m currently learning ML, AI, IoT, Cybersecurity.
+- 🌱 I’m currently learning ML, AI, IoT, Cybersecurity & Reverse Engineering.
 - ✨ I’m currently learning + working Telegram Devolper (Bot + Scripts)
 - 📫 How to reach me: ... My user @Mrfa0gh
 - 😄 Pronouns: Fares / Ghalwash / Kera
-- i hope to learn about flutter
+- 💙 I hope to learn about flutter
 - ⚡ Fun fact: Ronaldo is GOAT
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
-## Languages Used in My Projects
-
+## 🛠 Skills & Technologies
 <p align="center">
-  <a href="https://github.com/mrfa0gh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfa0gh&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mrfa0gh">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,dart,flutter,linux,mysql,selenium,nodejs,postman,git,github,vscode&theme=dark" />
   </a>
 </p>
+
+## 📊 GitHub Activities
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrfa0gh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>&nbsp;</p>
